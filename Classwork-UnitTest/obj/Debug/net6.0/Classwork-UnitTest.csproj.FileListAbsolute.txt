@@ -1,0 +1,15 @@
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\bin\Debug\net6.0\Classwork-UnitTest.exe
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\bin\Debug\net6.0\Classwork-UnitTest.deps.json
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\bin\Debug\net6.0\Classwork-UnitTest.runtimeconfig.json
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\bin\Debug\net6.0\Classwork-UnitTest.dll
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\bin\Debug\net6.0\Classwork-UnitTest.pdb
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\Classwork-UnitTest.csproj.AssemblyReference.cache
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\Classwork-UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\Classwork-UnitTest.AssemblyInfoInputs.cache
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\Classwork-UnitTest.AssemblyInfo.cs
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\Classwork-UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\Classwork-UnitTest.dll
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\refint\Classwork-UnitTest.dll
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\Classwork-UnitTest.pdb
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\Classwork-UnitTest.genruntimeconfig.cache
+C:\Users\didit\source\repos\Classwork-UnitTest\Classwork-UnitTest\obj\Debug\net6.0\ref\Classwork-UnitTest.dll
